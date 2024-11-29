@@ -14,9 +14,10 @@
 - React, Flask, Node, Express
 
 ## 💡 Top Projects
-- [Twitter Clone](https://github.com/Arjunsharmahehe/Twitter-clone-1.0)     
+- [Movies Explorer](https://github.com/Arjunsharmahehe/Movie-Explorer)
+- [Twitter UI Clone](https://github.com/Arjunsharmahehe/Twitter-clone-1.0)
+- [Leetcode Stats](https://github.com/Arjunsharmahehe/Leetcode-Stats)    
 - [Text Generator](https://github.com/Arjunsharmahehe/Text-generation)
-- [To-do List](https://github.com/Arjunsharmahehe/To-do)
 
 ## 📫 How to Reach Me
 - Email me at: arjunsharma.theta@gmail.com
