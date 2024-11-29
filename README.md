@@ -7,11 +7,12 @@
 
 ## 🛠️ Tech Stack
 - Languages: Python, HTML, CSS, JavaScript, C++
-- Web Development: React, Flask
+- Frameworks: React, Flask
+- UI/UX: Figma
 
 ## 🌱 Currently Learning
 - Full Stack Web Development
-- React, Flask, Node, Express
+- React, Flask, Node
 
 ## 💡 Top Projects
 - [Movies Explorer](https://github.com/Arjunsharmahehe/Movie-Explorer)
