@@ -13,7 +13,6 @@ I’m deeply into web development and love turning ideas into working products. 
 - Backend: FastAPI, Nodejs
 - Databases/Services: Appwrite, SQLite, MongoDB
 - Languages: JavaScript/TypeScript, Python
-- Other: REST APIs, Authentication, State Management
 
 ---
 
